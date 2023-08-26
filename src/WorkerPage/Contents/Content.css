@@ -1,0 +1,32 @@
+.content_title {
+    width: 100%;
+    text-align: center;
+    color: #000;
+    /* font-family: Clarika Geometric; */
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 48px;
+    letter-spacing: -0.44px;
+    margin-top: 100px;
+}
+
+.content_text {
+    width: 705px;
+    text-align: center;
+    margin: 0 auto;
+    color: #000;
+    text-align: center;
+    /* font-family: Clarika Geometric; */
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.22px;
+    margin-top: 40px;
+    margin-bottom: 32px;
+}
+
+.image_box_content {
+    margin-bottom: -100px;
+}

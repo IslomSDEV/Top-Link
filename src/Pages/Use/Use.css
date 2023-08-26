@@ -1,0 +1,114 @@
+.use {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.use_flex {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.havola_box {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.use_havola_title {
+    width: 100%;
+    text-align: center;
+    color: #000;
+    /* font-family: Clarika Geometric; */
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 48px;
+    letter-spacing: -0.44px;
+    margin-top: 80px;
+}
+
+.use_havola_text {
+    width: 100%;
+    text-align: center;
+    color: #000;
+    /* font-family: Clarika Geometric; */
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.22px;
+    margin-top: 32px;
+    margin-bottom: 56px;
+}
+
+.havola_input {
+    outline: none;
+    display: flex;
+    border-radius: 16px;
+    border: 1.5px solid #575DFB;
+    width: 343px;
+    height: 56px;
+    color: #000;
+    /* font-family: Clarika Geometric; */
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.176px;
+    padding: 5px 5px 5px 55px;
+}
+
+.havola_label {
+    position: relative;
+}
+
+.link_icon_use {
+    font-size: 25px;
+    color: #673AB7;
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+.use_description_box {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 120px;
+}
+
+.use_desc_left {
+    max-width: 550px;
+}
+
+.use_desc_title {
+    color: #182F43;
+    text-align: center;
+    /* font-family: Clarika Geometric; */
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 52px;
+}
+
+.use_desc_text {
+    max-width: 530px;
+    color: #182F43;
+    /* font-family: Clarika Geometric; */
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 32px;
+}
+
+.use_desc_right {
+    width: 550px;
+    height: 550px;
+}

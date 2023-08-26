@@ -1,0 +1,48 @@
+
+
+
+@font-face {
+  font-family: "Clarika Geometric";
+  src: url("../src/Assets/Fonts/d3148d46b600396e298caa894207c0b3.eot"); /* IE9*/
+  src: url("../src/Assets/Fonts/d3148d46b600396e298caa894207c0b3.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("../src/Assets/Fonts/d3148d46b600396e298caa894207c0b3.woff2")
+      format("woff2"),
+    /* chrome、firefox */
+      url("../src/Assets/Fonts/d3148d46b600396e298caa894207c0b3.woff")
+      format("woff"),
+    /* chrome、firefox */
+      url("../src/Assets/Fonts/d3148d46b600396e298caa894207c0b3.ttf")
+      format("truetype"),
+    /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+      url("../src/Assets/Fonts/d3148d46b600396e298caa894207c0b3.svg#Clarika Geometric Regular")
+      format("svg"); /* iOS 4.1- */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Clarika Geometric", sans-serif;
+
+}
+
+
+a{
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Clarika Geometric, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 0 20px;
+  /* border: 1px solid red; */
+}
