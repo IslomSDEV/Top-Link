@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import HomePic from "../../assets/Images/HomePic.svg";
+// import HomePic from "../../assets/Images/HomePic.svg";
 import telegram from "../../assets/Images/tg.svg";
 import shazam from "../../assets/Images/Shazam.svg";
 import safari from "../../assets/Images/Safari.svg";
